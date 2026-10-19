@@ -1,0 +1,2 @@
+# DinoHub
+By Hzs Scripts
